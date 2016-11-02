@@ -1,0 +1,924 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc42               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc43               { /* Common */
+	border          :   0.00pt none #ffffff;
+	}
+.cc44               { /* Common */
+	border          :   3.00pt solid #000000;
+	}
+.cc45               { /* Common */
+	border          :   0.00pt none #ececec;
+	}
+.cc46               { /* Common */
+	font            : bold 9pt 'Calibri';
+	color           : #000000;
+	}
+.cc47               { /* Common */
+	clip            : rect(0.00pt,12.75pt,12.75pt,0.00pt);
+	}
+.cc48               { /* Common */
+	border          :   1.50pt solid #000000;
+	}
+.cc49               { /* Common */
+	font            : 9pt 'Calibri';
+	color           : #000000;
+	}
+span#e116           { /* pokemongo007069.gif */
+	background      : transparent url(pokemongo007069.gif) no-repeat top left;
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 312.00pt;
+	width           : 558.75pt;
+	height          :1077.75pt;
+	}
+span#e115           { /* pokemongo007068.jpg */
+	background      : transparent url(pokemongo007068.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 190.50pt;
+	top             : 772.50pt;
+	width           : 527.25pt;
+	height          : 426.00pt;
+	}
+span#e114           { /* pokemongo007067.jpg */
+	background      : transparent url(pokemongo007067.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 339.75pt;
+	top             : 383.25pt;
+	width           : 384.75pt;
+	height          : 310.50pt;
+	}
+span#e113           { /* pokemongo007066.gif */
+	background      : transparent url(pokemongo007066.gif) no-repeat top left;
+	position        : absolute;
+	left            : 174.00pt;
+	top             :   5.25pt;
+	width           : 552.75pt;
+	height          : 299.25pt;
+	}
+span#e112           { /* pokemongo002056.jpg */
+	background      : transparent url(pokemongo002056.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 170.25pt;
+	top             :   1.50pt;
+	width           : 553.50pt;
+	height          : 297.75pt;
+	}
+span#e111           { /* pokemongo0010148.jpg */
+	background      : transparent url(pokemongo0010148.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 272.25pt;
+	top             :  46.50pt;
+	width           : 357.75pt;
+	height          : 201.75pt;
+	}
+span#e110           { /* pokemongo007063.gif */
+	background      : transparent url(pokemongo007063.gif) no-repeat top left;
+	position        : absolute;
+	left            : 194.25pt;
+	top             : 293.25pt;
+	width           : 509.25pt;
+	height          :  28.50pt;
+	}
+span#e109           { /* pokemongo0010118.jpg */
+	background      : transparent url(pokemongo0010118.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 473.25pt;
+	top             : 196.50pt;
+	width           : 102.75pt;
+	height          :  65.25pt;
+	}
+div#e108            { /* HOME */
+	position        : absolute;
+	left            : 231.00pt;
+	top             : 301.50pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+span#e107           { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 213.00pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e106            { /* MAP */
+	position        : absolute;
+	left            : 304.50pt;
+	top             : 301.50pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+span#e105           { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 286.50pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e104            { /* CONTACT US */
+	position        : absolute;
+	left            : 372.75pt;
+	top             : 301.50pt;
+	width           :  73.50pt;
+	height          :  13.50pt;
+	}
+span#e103           { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 354.75pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e102            { /* SHOP */
+	position        : absolute;
+	left            : 470.25pt;
+	top             : 301.50pt;
+	width           :  33.00pt;
+	height          :  12.75pt;
+	}
+span#e101           { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 452.25pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e100            { /* TRAINERS TIPS */
+	position        : absolute;
+	left            : 535.50pt;
+	top             : 301.50pt;
+	width           :  77.25pt;
+	height          :  12.75pt;
+	}
+span#e99            { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e98             { /* POKÉDEX */
+	position        : absolute;
+	left            : 640.50pt;
+	top             : 301.50pt;
+	width           :  64.50pt;
+	height          :  12.75pt;
+	}
+span#e97            { /* pokemongo001004.jpg */
+	background      : transparent url(pokemongo001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 622.50pt;
+	top             : 300.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e96             { /* pokemongo007055.jpg */
+	position        : absolute;
+	left            : 634.50pt;
+	top             : 327.00pt;
+	width           :  81.75pt;
+	height          :  28.50pt;
+	}
+img#e95             { /* pokemongo007054.jpg */
+	position        : absolute;
+	left            : 475.50pt;
+	top             : 327.00pt;
+	width           : 154.50pt;
+	height          :  28.50pt;
+	}
+img#e94             { /* pokemongo007053.jpg */
+	position        : absolute;
+	left            : 384.75pt;
+	top             : 327.00pt;
+	width           :  86.25pt;
+	height          :  28.50pt;
+	}
+div#e93             {
+	position        : absolute;
+	left            : 177.75pt;
+	top             : 426.00pt;
+	width           : 361.50pt;
+	height          : 225.00pt;
+	}
+span#e92            { /* pokemongo007042.jpg */
+	background      : transparent url(pokemongo007042.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 231.75pt;
+	top             : 631.50pt;
+	width           : 303.75pt;
+	height          :  18.75pt;
+	}
+div#e91             {
+	position        : absolute;
+	left            : 177.75pt;
+	top             : 662.25pt;
+	width           : 361.50pt;
+	height          : 225.00pt;
+	}
+span#e90            { /* pokemongo007042.jpg */
+	background      : transparent url(pokemongo007042.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 231.75pt;
+	top             : 867.75pt;
+	width           : 303.75pt;
+	height          :  18.75pt;
+	}
+span#e89            { /* pokemongo006041.jpg */
+	background      : transparent url(pokemongo006041.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 187.50pt;
+	top             : 324.00pt;
+	width           : 113.25pt;
+	height          :  75.75pt;
+	}
+span#e88            { /* pokemongo006040.jpg */
+	background      : transparent url(pokemongo006040.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 198.00pt;
+	top             : 362.25pt;
+	width           :  93.00pt;
+	height          :  52.50pt;
+	}
+img#e87             { /* pokemongo007051.jpg */
+	position        : absolute;
+	left            : 261.75pt;
+	top             : 384.75pt;
+	width           :  54.00pt;
+	height          :  18.75pt;
+	}
+span#e86            { /* pokemongo007050.gif */
+	background      : transparent url(pokemongo007050.gif) no-repeat top left;
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 426.00pt;
+	width           : 172.50pt;
+	height          :  21.00pt;
+	}
+div#e85             { /* Coloured Valour, Instinc... */
+	position        : absolute;
+	left            : 570.75pt;
+	top             : 430.50pt;
+	width           : 147.75pt;
+	height          :  13.50pt;
+	}
+span#e84            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 552.75pt;
+	top             : 429.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e83            { /* pokemongo007048.gif */
+	background      : transparent url(pokemongo007048.gif) no-repeat top left;
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 662.25pt;
+	width           : 172.50pt;
+	height          :  21.00pt;
+	}
+div#e82             { /* Black Valour, Instinct, ... */
+	position        : absolute;
+	left            : 570.75pt;
+	top             : 666.75pt;
+	width           : 147.75pt;
+	height          :  12.75pt;
+	}
+span#e81            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 552.75pt;
+	top             : 666.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e80             {
+	position        : absolute;
+	left            : 547.50pt;
+	top             : 450.75pt;
+	width           : 171.00pt;
+	height          :  81.75pt;
+	}
+div#e79             {
+	position        : absolute;
+	left            : 547.50pt;
+	top             : 687.75pt;
+	width           : 171.75pt;
+	height          :  84.00pt;
+	}
+span#e78            { /* pokemongo007046.gif */
+	background      : transparent url(pokemongo007046.gif) no-repeat top left;
+	position        : absolute;
+	left            : 576.00pt;
+	top             : 363.00pt;
+	width           : 143.25pt;
+	height          :  21.00pt;
+	}
+div#e77             { /* View Cart: */
+	position        : absolute;
+	left            : 597.00pt;
+	top             : 367.50pt;
+	width           :  51.75pt;
+	height          :  12.75pt;
+	}
+span#e76            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 580.50pt;
+	top             : 366.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e75             {
+	position        : absolute;
+	left            : 652.50pt;
+	top             : 365.25pt;
+	width           :  62.25pt;
+	height          :  17.25pt;
+	}
+div#e74             {
+	position        : absolute;
+	left            : 177.75pt;
+	top             : 898.50pt;
+	width           : 361.50pt;
+	height          : 225.00pt;
+	}
+span#e73            { /* pokemongo007042.jpg */
+	background      : transparent url(pokemongo007042.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 231.75pt;
+	top             :1104.00pt;
+	width           : 303.75pt;
+	height          :  18.75pt;
+	}
+span#e72            { /* pokemongo007044.gif */
+	background      : transparent url(pokemongo007044.gif) no-repeat top left;
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 898.50pt;
+	width           : 172.50pt;
+	height          :  21.00pt;
+	}
+div#e71             { /* Here For The Pokémon! */
+	position        : absolute;
+	left            : 570.75pt;
+	top             : 903.00pt;
+	width           : 147.75pt;
+	height          :  12.75pt;
+	}
+span#e70            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 552.75pt;
+	top             : 902.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e69             {
+	position        : absolute;
+	left            : 547.50pt;
+	top             : 924.00pt;
+	width           : 171.75pt;
+	height          :  78.00pt;
+	}
+span#e68            { /* pokemongo007039.jpg */
+	background      : transparent url(pokemongo007039.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 546.75pt;
+	top             : 852.00pt;
+	width           : 120.00pt;
+	height          :  33.75pt;
+	}
+span#e67            { /* pokemongo007039.jpg */
+	background      : transparent url(pokemongo007039.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 546.75pt;
+	top             :1087.50pt;
+	width           : 120.00pt;
+	height          :  33.75pt;
+	}
+span#e66            { /* pokemongo007039.jpg */
+	background      : transparent url(pokemongo007039.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 546.75pt;
+	top             : 616.50pt;
+	width           : 120.00pt;
+	height          :  33.75pt;
+	}
+div#e65             {
+	position        : absolute;
+	left            : 177.75pt;
+	top             :1136.25pt;
+	width           : 361.50pt;
+	height          : 225.00pt;
+	}
+span#e64            { /* pokemongo007042.jpg */
+	background      : transparent url(pokemongo007042.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 231.75pt;
+	top             :1341.75pt;
+	width           : 303.75pt;
+	height          :  18.75pt;
+	}
+span#e63            { /* pokemongo007041.gif */
+	background      : transparent url(pokemongo007041.gif) no-repeat top left;
+	position        : absolute;
+	left            : 548.25pt;
+	top             :1136.25pt;
+	width           : 172.50pt;
+	height          :  21.00pt;
+	}
+div#e62             { /* Long Sleeved T's */
+	position        : absolute;
+	left            : 570.75pt;
+	top             :1140.75pt;
+	width           : 147.75pt;
+	height          :  12.75pt;
+	}
+span#e61            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 552.75pt;
+	top             :1140.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e60             {
+	position        : absolute;
+	left            : 547.50pt;
+	top             :1161.75pt;
+	width           : 171.75pt;
+	height          :  74.25pt;
+	}
+span#e59            { /* pokemongo007039.jpg */
+	background      : transparent url(pokemongo007039.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 546.75pt;
+	top             :1325.25pt;
+	width           : 120.00pt;
+	height          :  33.75pt;
+	}
+div#e58             { /* Show you Team Colours Wi... */
+	position        : absolute;
+	left            : 547.50pt;
+	top             : 564.75pt;
+	width           : 171.75pt;
+	height          :  45.75pt;
+	}
+div#e57             { /* Show you Team Colours Wi... */
+	position        : absolute;
+	left            : 547.50pt;
+	top             : 800.25pt;
+	width           : 171.75pt;
+	height          :  45.75pt;
+	}
+div#e56             { /* I’m Here for the Pokémon... */
+	position        : absolute;
+	left            : 547.50pt;
+	top             :1035.75pt;
+	width           : 171.75pt;
+	height          :  44.25pt;
+	}
+div#e55             { /* Awesome long sleeved t-s... */
+	position        : absolute;
+	left            : 547.50pt;
+	top             :1274.25pt;
+	width           : 171.75pt;
+	height          :  44.25pt;
+	}
+span#e54            { /* pokemongo007038.gif */
+	background      : transparent url(pokemongo007038.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 416.25pt;
+	width           : 144.00pt;
+	height          : 157.50pt;
+	}
+img#e53             { /* pokemongo001050.jpg */
+	position        : absolute;
+	left            :  25.50pt;
+	top             : 417.75pt;
+	width           : 138.75pt;
+	height          : 138.75pt;
+	}
+span#e52            { /* pokemongo007037.gif */
+	background      : transparent url(pokemongo007037.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 397.50pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e51             { /* BUY OUR CUSTOM T-SHIRTS  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 402.00pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e50            { /* pokemongo001046.jpg */
+	background      : transparent url(pokemongo001046.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 401.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e49            { /* pokemongo007035.gif */
+	background      : transparent url(pokemongo007035.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 555.75pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e48             { /* CLICK HERE  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 560.25pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e47            { /* pokemongo001046.jpg */
+	background      : transparent url(pokemongo001046.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 559.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e46            { /* pokemongo007033.gif */
+	background      : transparent url(pokemongo007033.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 277.50pt;
+	width           : 144.00pt;
+	height          : 113.25pt;
+	}
+span#e45            { /* pokemongo007032.gif */
+	background      : transparent url(pokemongo007032.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 258.75pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e44             { /* AWESOME POKéMON MAP  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 263.25pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e43            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 262.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e42            { /* pokemongo007030.gif */
+	background      : transparent url(pokemongo007030.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 374.25pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e41             { /* CLICK HERE  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 378.75pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e40            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 378.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e39             { /* pokemongo001040.jpg */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 279.00pt;
+	width           : 141.00pt;
+	height          :  96.00pt;
+	}
+img#e38             { /* pokemongo001039.jpg */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 418.50pt;
+	width           : 141.00pt;
+	height          : 138.00pt;
+	}
+span#e37            { /* pokemongo007026.gif */
+	background      : transparent url(pokemongo007026.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 597.75pt;
+	width           : 144.00pt;
+	height          : 157.50pt;
+	}
+span#e36            { /* pokemongo007025.gif */
+	background      : transparent url(pokemongo007025.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 579.00pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e35             { /* BUY OUR CUSTOM T-SHIRTS  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 583.50pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e34            { /* pokemongo001034.jpg */
+	background      : transparent url(pokemongo001034.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 582.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e33            { /* pokemongo007023.gif */
+	background      : transparent url(pokemongo007023.gif) no-repeat top left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 737.25pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e32             { /* CLICK HERE  */
+	position        : absolute;
+	left            :  45.00pt;
+	top             : 741.75pt;
+	width           : 113.25pt;
+	height          :  13.50pt;
+	}
+span#e31            { /* pokemongo001034.jpg */
+	background      : transparent url(pokemongo001034.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.00pt;
+	top             : 741.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e30             { /* pokemongo001033.jpg */
+	position        : absolute;
+	left            :  24.00pt;
+	top             : 600.00pt;
+	width           : 141.75pt;
+	height          : 138.00pt;
+	}
+img#e29             { /* pokemongo007020.gif */
+	position        : absolute;
+	left            : 735.75pt;
+	top             : 201.75pt;
+	width           : 144.00pt;
+	height          : 245.25pt;
+	}
+span#e28            { /* pokemongo001031.jpg */
+	background      : transparent url(pokemongo001031.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 737.25pt;
+	top             : 203.25pt;
+	width           : 141.00pt;
+	height          : 250.50pt;
+	}
+span#e27            { /* pokemongo007019.gif */
+	background      : transparent url(pokemongo007019.gif) no-repeat top left;
+	position        : absolute;
+	left            : 735.75pt;
+	top             :  21.00pt;
+	width           : 144.00pt;
+	height          : 157.50pt;
+	}
+span#e26            { /* pokemongo007018.gif */
+	background      : transparent url(pokemongo007018.gif) no-repeat top left;
+	position        : absolute;
+	left            : 735.75pt;
+	top             :   2.25pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e25             { /* Pokémon Go Jackets */
+	position        : absolute;
+	left            : 758.25pt;
+	top             :   6.75pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e24            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 740.25pt;
+	top             :   6.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e23            { /* pokemongo007016.gif */
+	background      : transparent url(pokemongo007016.gif) no-repeat top left;
+	position        : absolute;
+	left            : 735.75pt;
+	top             : 160.50pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e22             { /* CLICK HERE  */
+	position        : absolute;
+	left            : 758.25pt;
+	top             : 165.00pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e21            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 740.25pt;
+	top             : 164.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e20            { /* pokemongo007014.gif */
+	background      : transparent url(pokemongo007014.gif) no-repeat top left;
+	position        : absolute;
+	left            : 735.75pt;
+	top             : 183.00pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e19             { /* PLAYERS GUIDE AVAILABLE */
+	position        : absolute;
+	left            : 758.25pt;
+	top             : 187.50pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e18            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 740.25pt;
+	top             : 186.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e17            { /* pokemongo007012.gif */
+	background      : transparent url(pokemongo007012.gif) no-repeat top left;
+	position        : absolute;
+	left            : 735.75pt;
+	top             : 444.75pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e16             { /* CLICK HERE  */
+	position        : absolute;
+	left            : 758.25pt;
+	top             : 449.25pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e15            { /* pokemongo001022.jpg */
+	background      : transparent url(pokemongo001022.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 740.25pt;
+	top             : 448.50pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e14             { /* pokemongo001021.jpg */
+	position        : absolute;
+	left            : 737.25pt;
+	top             :  23.25pt;
+	width           : 141.00pt;
+	height          : 138.00pt;
+	}
+img#e13             { /* pokemongo001020.jpg */
+	position        : absolute;
+	left            : 737.25pt;
+	top             : 204.75pt;
+	width           : 141.00pt;
+	height          : 240.75pt;
+	}
+span#e12            { /* pokemongo007008.gif */
+	background      : transparent url(pokemongo007008.gif) no-repeat top left;
+	position        : absolute;
+	left            : 736.50pt;
+	top             : 486.00pt;
+	width           : 144.00pt;
+	height          : 157.50pt;
+	}
+span#e11            { /* pokemongo007007.gif */
+	background      : transparent url(pokemongo007007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 736.50pt;
+	top             : 467.25pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e10             { /* BUY OUR CUSTOM T-SHIRTS  */
+	position        : absolute;
+	left            : 759.00pt;
+	top             : 471.75pt;
+	width           : 113.25pt;
+	height          :  12.75pt;
+	}
+span#e9             { /* pokemongo001015.jpg */
+	background      : transparent url(pokemongo001015.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 741.00pt;
+	top             : 471.00pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e8             { /* pokemongo007005.gif */
+	background      : transparent url(pokemongo007005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 736.50pt;
+	top             : 625.50pt;
+	width           : 144.00pt;
+	height          :  21.00pt;
+	}
+div#e7              { /* CLICK HERE  */
+	position        : absolute;
+	left            : 759.00pt;
+	top             : 630.00pt;
+	width           : 113.25pt;
+	height          :  13.50pt;
+	}
+span#e6             { /* pokemongo001015.jpg */
+	background      : transparent url(pokemongo001015.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 741.00pt;
+	top             : 629.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e5              { /* pokemongo001014.jpg */
+	position        : absolute;
+	left            : 738.75pt;
+	top             : 488.25pt;
+	width           : 135.00pt;
+	height          : 135.00pt;
+	}
+img#e4              { /* pokemongo001013.jpg */
+	position        : absolute;
+	left            : 738.75pt;
+	top             : 489.75pt;
+	width           : 138.75pt;
+	height          : 134.25pt;
+	}
+span#e3             { /* pokemongo007002.gif */
+	background      : transparent url(pokemongo007002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 135.00pt;
+	top             :   3.75pt;
+	width           :  33.75pt;
+	height          : 249.75pt;
+	}
+img#e2              { /* pokemongo001012.jpg */
+	position        : absolute;
+	left            : 137.25pt;
+	top             :   6.00pt;
+	width           :  29.25pt;
+	height          : 245.25pt;
+	}
+div#e1              {
+	position        : absolute;
+	left            : 176.25pt;
+	top             :   6.75pt;
+	width           : 546.00pt;
+	height          :  26.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 900.00pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(background_new_-_n3ds_pokemonsupermysterydungeon_mainillustration_png_jpgcopy.0.0_-_copy_-_copy.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
